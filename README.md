@@ -1,12 +1,8 @@
-🗺 Ma. Rochelle's Portfolio
+##🗺 Ma. Rochelle's Portfolio
 
-- 👋 Hi, I’m Ma. Rochelle Gelvison
-- 👀 I’m a Geologist and a Data Analyst
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my data portfolio! Here, I document a summary of my data projects.
+
+##📚 Table of Contents
 
 <!---
 MariaGelvison/MariaGelvison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
